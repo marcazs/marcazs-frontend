@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/marcazs/marcazs-frontend/issues"
   },
-  "homepage": "https://github.com/marcazs/marcazs-frontend#readme"
+  "homepage": "https://github.com/marcazs/marcazs-frontend#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2"
+  }
 }
