@@ -1,0 +1,22 @@
+{
+  "name": "marcazs-frontend",
+  "description": "Diseño frontend",
+  "main": "index.html",
+  "authors": [
+    "marcazs"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/marcazs/marcazs-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}

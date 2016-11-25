@@ -1,0 +1,19 @@
+{
+  "name": "marcazs-frontend",
+  "version": "0.0.1",
+  "description": "Diseño frontend",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcazs/marcazs-frontend.git"
+  },
+  "author": "marcazs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcazs/marcazs-frontend/issues"
+  },
+  "homepage": "https://github.com/marcazs/marcazs-frontend#readme"
+}
